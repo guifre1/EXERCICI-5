@@ -6,6 +6,9 @@
    text-decoration: none;
    color: rgb(223, 44, 230);
    font-family: Courier New;
+   position: fixed;
+   top: 50;
+   left: 0;
  }
  .MENU li ul li{
    margin-left: 0px;
