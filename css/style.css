@@ -1,6 +1,11 @@
-.parallax {
-    background-image:url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn4.vectorstock.com%2Fi%2F1000x1000%2F47%2F93%2Fdesert-parallax-background-vector-10204793.jpg&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fdesert-parallax-background-vector-10204793&tbnid=AIHYI6r15JSXwM&vet=12ahUKEwiDtuKK7qn9AhWmricCHc8SAgUQMygCegUIARDWAQ..i&docid=wAni5BLgVc1kwM&w=1000&h=787&q=background%20parallax%20photo&ved=2ahUKEwiDtuKK7qn9AhWmricCHc8SAgUQMygCegUIARDWAQ");
-    background-attachment: fixed;
+html{
+	background-image: url("https://img.freepik.com/vector-gratis/fondo-blanco-hexagono-tecnologia-azul_1017-19366.jpg?w=1060&t=st=1677096632~exp=1677097232~hmac=c054cbda0118ea1570981c421763aaa9d50d56a898b2927ad8b9847e1f4436a0");
+	height: 100%;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
 }
     .MENU li a{
    text-decoration: none;
