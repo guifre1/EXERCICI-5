@@ -19,9 +19,7 @@ position: fixed;
    color: rgb(223, 44, 230);
    font-family: Courier New;   
  }
- .MENU li ul li{
-   margin-left: 0px;
- } 
+ 
  .MENU1>li{
    font-weight: 300;
    list-style:square
@@ -46,15 +44,6 @@ position: fixed;
 	  align-items: center;
    font-weight: 600;
    transition: 2s;
- }
- .MENU>li:hover{
-   height:0px;
- }
- .tot{
-   background-color: #ccc;
-   overflow: hidden;
-   width: 250px;
-   
  }
  .CAIXA1 {
    width: 415px;
