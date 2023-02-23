@@ -73,8 +73,8 @@ td {
 	height: 250px;
 	margin-bottom: auto;
 	position: fixed;
-	top: 50;
-	left: 416;
+	top:100;
+	left: 200;
 	background: green;
 	font-size: 20px;
 	text-align: center;
@@ -86,8 +86,8 @@ td {
 	height: 250px;
 	margin-bottom: auto;
 	position: fixed;
-	top: 50;
-	left: 832;
+	top: 150;
+	left: 400;
 	background:blue;
 	font-size: 20px;
 	text-align: center;
