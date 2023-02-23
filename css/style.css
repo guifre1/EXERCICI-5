@@ -85,7 +85,7 @@ td {
 	width: 415px;
 	height: 250px;
 	margin-bottom: auto;
-	position: fixed;
+	position:relative;
 	top: 150;
 	left: 400;
 	background:blue;
