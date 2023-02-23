@@ -41,11 +41,12 @@ th, td {
 }
 th {
 	background-color: #333;
-	color:deeppink
+	color:#fff
 }
 td {
 	border: 1px solid #ddd;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:deeppink
 }
 .parag{
 	margin-left: auto;
