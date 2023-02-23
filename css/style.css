@@ -58,7 +58,7 @@ td {
 .CAIXA1 {
 	width: 415px;
 	height: 250px;
-	margin-bottom: 25px;
+	margin-bottom: auto;
 	position: fixed;
 	top: 50;
 	left: 0;
@@ -71,7 +71,7 @@ td {
   .CAIXA2 {
 	width: 415px;
 	height: 250px;
-	margin-bottom: 25px;
+	margin-bottom: auto;
 	position: fixed;
 	top: 50;
 	left: 416;
@@ -84,7 +84,7 @@ td {
   .CAIXA3 {
 	width: 415px;
 	height: 250px;
-	margin-bottom: 25px;
+	margin-bottom: auto;
 	position: fixed;
 	top: 50;
 	left: 832;
