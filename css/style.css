@@ -28,16 +28,7 @@ position: fixed;
    color: rgb(223, 44, 230);
    font-family: Courier New;   
  }
- 
- .MENU1>li{
-   font-weight: 300;
-   list-style:square
- }
- .MENU1>li>a:hover{
-   color: red;
-   margin-left: 20px;
- }
- .MENU>li>a:hover{
+   .MENU>li>a:hover{
    color: green;
    margin-left: 20px;
   }
