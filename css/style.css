@@ -59,6 +59,9 @@ td {
 	width: 415px;
 	height: 250px;
 	margin-bottom: 25px;
+	position: fixed;
+	top: 50;
+	left: 0;
 	background: red;
 	font-size: 20px;
 	text-align: center;
@@ -69,6 +72,9 @@ td {
 	width: 415px;
 	height: 250px;
 	margin-bottom: 25px;
+	position: fixed;
+	top: 50;
+	left: 416;
 	background: green;
 	font-size: 20px;
 	text-align: center;
@@ -81,7 +87,7 @@ td {
 	margin-bottom: 25px;
 	position: fixed;
 	top: 50;
-	left: 0;
+	left: 832;
 	background:blue;
 	font-size: 20px;
 	text-align: center;
