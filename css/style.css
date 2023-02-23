@@ -79,6 +79,9 @@ td {
 	width: 415px;
 	height: 250px;
 	margin-bottom: 25px;
+	position: fixed;
+	top: 50;
+	left: 0;
 	background:blue;
 	font-size: 20px;
 	text-align: center;
