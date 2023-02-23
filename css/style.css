@@ -13,6 +13,8 @@ position: fixed;
 	background-color: #333;
 	color: #fff;
 	padding: 10px;
+}
+.tot ul{
   list-style: none;
   margin: 0;
   padding-left: 10%;
