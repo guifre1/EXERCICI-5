@@ -13,7 +13,6 @@ html{
  
  }
  .MENU li ul li{
-   margin-left: 0px;
  } 
  .MENU1>li{
    font-weight: 300;
@@ -37,7 +36,7 @@ html{
    transition: 2s;
  }
  .MENU>li:hover{
-   height: auto;
+   height:0px;
  }
  .tot{
    background-color: #ccc;
