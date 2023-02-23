@@ -13,6 +13,15 @@ position: fixed;
 	background-color: #333;
 	color: #fff;
 	padding: 10px;
+  list-style: none;
+  margin: 0;
+  padding-left: 10%;
+  padding-right: 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ font-weight: 600;
+ transition: 2s;
 }
     .MENU li a{
    text-decoration: none;
@@ -31,49 +40,5 @@ position: fixed;
  .MENU>li>a:hover{
    color: green;
    margin-left: 20px;
- 
- }
- .MENU>li{
-   list-style:none;
-   list-style: none;
-	  margin: 0;
-	  padding-left: 10%;
-	  padding-right: 10%;
-	  display: flex;
-	  justify-content: space-between;
-	  align-items: center;
-   font-weight: 600;
-   transition: 2s;
- }
- .CAIXA1 {
-   width: 415px;
-   height: 250px;
-   margin-bottom: auto;
-   background: red;
-   font-size: 20px;
-   text-align: center;
-   line-height: 10px;
-  float: left;
- }
- .CAIXA2 {
-   width: 415px;
-   height: 250px;
-   margin-bottom: auto;
-   background: green;
-   font-size: 20px;
-   text-align: center;
-   line-height: 10px;
-  float: left;
- }
- .CAIXA3 {
-   width: 415px;
-   height: 250px;
-   margin-bottom: auto;
-   background:blue;
-   font-size: 20px;
-   text-align: center;
-   line-height: 10px;
-  float: left;
- }
-  
+  }
  
