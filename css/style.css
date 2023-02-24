@@ -93,11 +93,11 @@ td {
 	line-height: 10px;
    float: right;
   }
-  .parag{
+  .text{
 	height: auto;
 	margin-left: auto;
 	margin-right: auto;
-	width: 100px;
+	width: 100%;
 	padding: 70px;
 }
  
