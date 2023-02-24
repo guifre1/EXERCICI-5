@@ -59,7 +59,7 @@ td {
 	height: 100px;
 	margin-left: auto;
 	margin-right: auto;
-	width: 100%;
+	width: 50%;
 	padding: 70px;
 	color:fuchsia;
 }
@@ -67,7 +67,7 @@ td {
 	height: 100px;
 	margin-left: auto;
 	margin-right: auto;
-	width: 100%;
+	width: 50%;
 	padding: 70px;
 	color: deeppink;
 	font-size: 25px;
