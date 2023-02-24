@@ -51,12 +51,12 @@ td {
 .parag{
 	margin-left: auto;
 	margin-right: auto;
-	height: 100px;
+	height: auto;
 	width: 80%;
 	padding: 70px;
 }
   .text{
-	height: auto;
+	height: 100px;
 	margin-left: auto;
 	margin-right: auto;
 	width: 100%;
@@ -64,7 +64,7 @@ td {
 	color:fuchsia;
 }
 .text2{
-	height: auto;
+	height: 100px;
 	margin-left: auto;
 	margin-right: auto;
 	width: 100%;
