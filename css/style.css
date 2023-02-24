@@ -55,44 +55,6 @@ td {
 	width: 80%;
 	padding: 70px;
 }
-.CAIXA1 {
-	width: 415px;
-	height: 250px;
-	margin-bottom: auto;
-	position:relative;
-	top: 50;
-	left: 0;
-	background: red;
-	font-size: 20px;
-	text-align: center;
-	line-height: 10px;
-  float:left;
-  }
-  .CAIXA2 {
-	width: 415px;
-	height: 250px;
-	margin-bottom: auto;
-	position: fixed;
-	top:100;
-	left: 200;
-	background: green;
-	font-size: 20px;
-	text-align: center;
-	line-height: 10px;
-   float: center;
-  }
-  .CAIXA3 {
-	width: 415px;
-	height: 250px;
-	margin: 150px;
-	top: 150;
-	left: 400;
-	background:blue;
-	font-size: 20px;
-	text-align: center;
-	line-height: 10px;
-   float: right;
-  }
   .text{
 	height: auto;
 	margin-left: auto;
